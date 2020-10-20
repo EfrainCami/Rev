@@ -24,7 +24,7 @@ namespace Revision_informal{
                     enRango = dentroDelRango(ladoA, ladoB, ladoC);
 
                     if (!esTriangulo) {
-                        Console.WriteLine("Los valores que se ingresaron no son los de un triángulo HOLA SALUDOS");
+                        Console.WriteLine("Los valores que se ingresaron no son los de un triángulo");
                     }
                     if (!enRango) {
                         Console.WriteLine("Los valores no están dentro del rango definido");

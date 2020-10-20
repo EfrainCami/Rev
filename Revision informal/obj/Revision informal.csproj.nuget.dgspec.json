@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\griml\\RiderProjects\\Revision informal\\Revision informal\\Revision informal.csproj": {}
+    "C:\\Users\\griml\\RiderProjects\\Revision informal\\Rev\\Revision informal\\Revision informal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\griml\\RiderProjects\\Revision informal\\Revision informal\\Revision informal.csproj": {
+    "C:\\Users\\griml\\RiderProjects\\Revision informal\\Rev\\Revision informal\\Revision informal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Revision informal\\Revision informal.csproj",
+        "projectUniqueName": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Rev\\Revision informal\\Revision informal.csproj",
         "projectName": "Revision informal",
-        "projectPath": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Revision informal\\Revision informal.csproj",
+        "projectPath": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Rev\\Revision informal\\Revision informal.csproj",
         "packagesPath": "C:\\Users\\griml\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Revision informal\\obj\\",
+        "outputPath": "C:\\Users\\griml\\RiderProjects\\Revision informal\\Rev\\Revision informal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\griml\\AppData\\Roaming\\NuGet\\NuGet.Config",
