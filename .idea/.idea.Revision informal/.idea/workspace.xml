@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7df4849f-2cd8-450f-9a1d-fa4ce9e67882" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Revision informal/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/Debug/netcoreapp3.1/Revision informal.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/Debug/netcoreapp3.1/Revision informal.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/Debug/netcoreapp3.1/Revision informal.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/Debug/netcoreapp3.1/Revision informal.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/Revision informal.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/Revision informal.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Revision informal/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Revision informal/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603160529128</updated>
       <workItem from="1603160588510" duration="1429000" />
-      <workItem from="1603163565506" duration="26000" />
+      <workItem from="1603163565506" duration="261000" />
     </task>
     <servers />
   </component>

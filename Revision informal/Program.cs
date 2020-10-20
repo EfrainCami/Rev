@@ -24,14 +24,14 @@ namespace Revision_informal{
                     enRango = dentroDelRango(ladoA, ladoB, ladoC);
 
                     if (!esTriangulo) {
-                        Console.WriteLine("Los valores que se ingresaron no son los de un triángulo");
+                        Console.WriteLine("Los valores que se ingresaron no son los de un triángulo.");
                     }
                     if (!enRango) {
-                        Console.WriteLine("Los valores no están dentro del rango definido");
+                        Console.WriteLine("Los valores no están dentro del rango definido.");
                     }
                 }
                 catch (FormatException) {
-                    Console.WriteLine("El dato que ingresaste no es un numero");
+                    Console.WriteLine("El dato que ingresaste no es un numero.");
                 }
             }
 
